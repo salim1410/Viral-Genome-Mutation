@@ -1,0 +1,247 @@
+{
+  "Seq_annot": {
+    "desc": [
+      {
+        "user": {
+          "type": {
+            "str": "Hist Seqalign"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "Hist Seqalign"
+              },
+              "data": {
+                "bool": true
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Type"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "psiblast"
+              },
+              "data": {
+                "int": 10
+              }
+            }
+          ]
+        }
+      },
+      {
+        "user": {
+          "type": {
+            "str": "Blast Database Title"
+          },
+          "data": [
+            {
+              "label": {
+                "str": "Non-redundant UniProtKB/SwissProt sequences"
+              },
+              "data": {
+                "bool": false
+              }
+            }
+          ]
+        }
+      }
+    ],
+    "data": {
+      "align": [
+        {
+          "type": "partial",
+          "dim": 2,
+          "score": [
+            {
+              "id": {
+                "str": "score"
+              },
+              "value": {
+                "int": 6162
+              }
+            },
+            {
+              "id": {
+                "str": "blast_score"
+              },
+              "value": {
+                "int": 6162
+              }
+            },
+            {
+              "id": {
+                "str": "e_value"
+              },
+              "value": {
+                "real": 0
+              }
+            },
+            {
+              "id": {
+                "str": "bit_score"
+              },
+              "value": {
+                "real": 2688.17245174481
+              }
+            },
+            {
+              "id": {
+                "str": "num_ident"
+              },
+              "value": {
+                "int": 1179
+              }
+            },
+            {
+              "id": {
+                "str": "comp_adjustment_method"
+              },
+              "value": {
+                "int": 2
+              }
+            },
+            {
+              "id": {
+                "str": "num_positives"
+              },
+              "value": {
+                "int": 1192
+              }
+            },
+            {
+              "id": {
+                "str": "hsp_percent_coverage"
+              },
+              "value": {
+                "real": 100
+              }
+            },
+            {
+              "id": {
+                "str": "pc_ident"
+              },
+              "value": {
+                "real": 0.964022894521668
+              }
+            },
+            {
+              "id": {
+                "str": "seq_evalue"
+              },
+              "value": {
+                "real": 0
+              }
+            },
+            {
+              "id": {
+                "str": "seq_bit_score"
+              },
+              "value": {
+                "real": 2688.17245174481
+              }
+            },
+            {
+              "id": {
+                "str": "seq_total_bit_score"
+              },
+              "value": {
+                "real": 2688.17245174481
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_coverage"
+              },
+              "value": {
+                "int": 100
+              }
+            },
+            {
+              "id": {
+                "str": "seq_percent_identity"
+              },
+              "value": {
+                "real": 96.4022894521668
+              }
+            },
+            {
+              "id": {
+                "str": "seq_hspnum"
+              },
+              "value": {
+                "int": 1
+              }
+            },
+            {
+              "id": {
+                "str": "seq_align_totlen"
+              },
+              "value": {
+                "real": 1223
+              }
+            }
+          ],
+          "segs": {
+            "denseg": {
+              "dim": 2,
+              "numseg": 1,
+              "ids": [
+                {
+                  "local": {
+                    "str": "Query_16208"
+                  }
+                },
+                {
+                  "swissprot": {
+                    "accession": "Q997F0",
+                    "version": 1
+                  }
+                }
+              ],
+              "starts": [
+                0,
+                0
+              ],
+              "lens": [
+                1223
+              ],
+              "strands": [
+                "unknown",
+                "unknown"
+              ]
+            }
+          },
+          "ext": [
+            {
+              "type": {
+                "str": "use_this_seqid"
+              },
+              "data": [
+                {
+                  "label": {
+                    "str": "SEQIDS"
+                  },
+                  "num": 1,
+                  "data": {
+                    "strs": [
+                      "seqid:Q997F0.1"
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
+
+

@@ -1,0 +1,145 @@
+Seq-annot ::= {
+  data ftable {
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      product whole local str "ORF8",
+      location int {
+        from 23,
+        to 1531,
+        strand plus,
+        id gi 2330733988
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      product whole local str "ORF1",
+      location int {
+        from 1383,
+        to 1616,
+        strand plus,
+        id gi 2330733988
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      product whole local str "ORF2",
+      location int {
+        from 2226,
+        to 4355,
+        strand plus,
+        id gi 2330733988
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      product whole local str "ORF9",
+      location int {
+        from 4928,
+        to 5986,
+        strand plus,
+        id gi 2330733988
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      product whole local str "ORF3",
+      location int {
+        from 6474,
+        to 8114,
+        strand plus,
+        id gi 2330733988
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      partial TRUE,
+      product whole local str "ORF4",
+      location int {
+        from 8763,
+        to 10388,
+        strand plus,
+        id gi 2330733988,
+        fuzz-to lim gt
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      partial TRUE,
+      product whole local str "ORF5",
+      location int {
+        from 11232,
+        to 14900,
+        strand plus,
+        id gi 2330733988,
+        fuzz-to lim gt
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      partial TRUE,
+      product whole local str "ORF6",
+      location int {
+        from 14964,
+        to 17042,
+        strand plus,
+        id gi 2330733988,
+        fuzz-to lim gt
+      }
+    },
+    {
+      data cdregion {
+        frame one,
+        code {
+          id 1
+        }
+      },
+      product whole local str "ORF7",
+      location int {
+        from 17229,
+        to 17966,
+        strand plus,
+        id gi 2330733988
+      }
+    }
+  }
+}
