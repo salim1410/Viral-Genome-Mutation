@@ -1,0 +1,28 @@
+>OM135495.1
+24	1532	CDS
+			protein_id	lcl|ORF8
+			product	unnamed protein
+1384	1617	CDS
+			protein_id	lcl|ORF1
+			product	unnamed protein
+2227	4356	CDS
+			protein_id	lcl|ORF2
+			product	unnamed protein
+4929	5987	CDS
+			protein_id	lcl|ORF9
+			product	unnamed protein
+6475	8115	CDS
+			protein_id	lcl|ORF3
+			product	unnamed protein
+8764	10389	CDS
+			protein_id	lcl|ORF4
+			product	unnamed protein
+11233	14901	CDS
+			protein_id	lcl|ORF5
+			product	unnamed protein
+14965	17043	CDS
+			protein_id	lcl|ORF6
+			product	unnamed protein
+17230	17967	CDS
+			protein_id	lcl|ORF7
+			product	unnamed protein
